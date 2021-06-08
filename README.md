@@ -1,4 +1,4 @@
-# world_happiness
+# World Happiness
 
 Integrants del grup: Isaac Boixaderas
 
